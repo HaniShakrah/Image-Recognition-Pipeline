@@ -1,6 +1,7 @@
 # CS 643 Cloud Computing — Project 1
 ## AWS Image Recognition Pipeline
 
+## Link to Demo Video: https://www.youtube.com/watch?v=frrI6syw83Y
 
 ## Setup Steps
 
